@@ -1,0 +1,1 @@
+# landslide_monitoring_locations
